@@ -23,22 +23,22 @@ global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
 global.location = "Jatim" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
-global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
-global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
-global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
-global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
+global.owner = ['6281280020649'] //ur number
+global.ownernomer = "6281280020649" //ur number
+global.ownertag = '6281280020649' //ur tag number
+global.premium = ['6281280020649'] //ur premium number
+global.botname = 'XeyrixBot' //ur bot name
+global.ownername = "Xeyrix"
+global.linkz = "https://youtube.com/@nish-official" //your theme url which will be displayed on whatsapp
+global.dana = "6287877155288"
+global.pulsa = "6281280020649"
+global.websitex = "https://youtube.com/@nish-official" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Oscar Bot" //ur sticker watermark author
-global.wm = "Jarot ofc" //ur watermark
+global.author = "Xeyrix Bot" //ur sticker watermark author
+global.wm = "Xeyrix ofc" //ur watermark
 
 // Other
 global.sessionName = 'Session'
